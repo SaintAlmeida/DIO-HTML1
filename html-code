@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Desafio de Projeto - HTML Básico</title>
+</head>
+<body>
+
+    <h1>Meu Primeiro Website</h1>
+    <h2>Subtítulo de Nível 2</h2>
+    <h3>Subtítulo de Nível 3</h3>
+    <h4>Subtítulo de Nível 4</h4>
+    <h5>Subtítulo de Nível 5</h5>
+    <h6>Subtítulo de Nível 6</h6>
+
+    <hr>
+
+    <p>Este é um parágrafo de <strong>exemplo</strong> com várias <mark>tags</mark> utilizadas para <i>estudar HTML</i>.</p>
+
+    <p>Texto com <u>sublinhado</u>, <small>texto pequeno</small> e também com <del>texto deletado</del>.</p>
+
+    <p>A fórmula da água é H<sub>2</sub>O e a equação de Einstein é E=mc<sup>2</sup>.</p>
+
+    <p>Veja uma citação importante abaixo:</p>
+    <blockquote cite="https://www.w3schools.com/html/">
+        “O HTML é a linguagem padrão para a criação de páginas da Web.”
+    </blockquote>
+
+    <hr>
+
+    <p><abbr title="HyperText Markup Language">HTML</abbr> é a base da web.</p>
+
+    <p>Você pode acessar o <a href="https://www.google.com" target="_blank">Google</a> clicando aqui.</p>
+
+    <hr>
+
+    <h3>Lista Ordenada</h3>
+    <ol>
+        <li>Aprender HTML</li>
+        <li>Praticar com Projetos</li>
+        <li>Compartilhar no GitHub</li>
+    </ol>
+
+    <h3>Lista Não Ordenada</h3>
+    <ul>
+        <li>Estudar</li>
+        <li>Praticar</li>
+        <li>Revisar</li>
+    </ul>
+
+    <hr>
+
+    <p><font color="blue" face="Arial">Este texto usa a tag <code>&lt;font&gt;</code>, que é obsoleta, mas ainda pode ser vista em códigos antigos.</font></p>
+
+</body>
+</html>
